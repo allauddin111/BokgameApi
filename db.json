@@ -1,0 +1,35 @@
+{
+  "courts": {
+    "no": 1,
+    "details": [
+      {
+        "price": 200,
+        "slot1": 0,
+        "slot2": 0,
+        "slot3": 0,
+        "slot4": 0,
+        "slot5": 0,
+        "slot6": 0,
+        "slot7": 0,
+        "slot8": 0,
+        "slot9": 0
+      }
+    ]
+  },
+  "no": 2,
+  "details": [
+    {
+      "price": 400,
+      "slot1": 0,
+      "slot2": 0,
+      "slot3": 0,
+      "slot4": 0,
+      "slot5": 0,
+      "slot6": 0,
+      "slot7": 0,
+      "slot8": 0,
+      "slot9": 0
+    }
+  ]
+
+}
